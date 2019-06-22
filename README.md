@@ -4,6 +4,6 @@ June 2019 Dev Ops
 
 # DevOps
 
-```bash
+``` bash
 bash commands
-```bash
+```
