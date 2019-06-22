@@ -12,3 +12,4 @@ bash commands
 * DevOps
   * Git
   * Jenkins
+  * AWS
