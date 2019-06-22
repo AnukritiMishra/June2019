@@ -7,3 +7,8 @@ June 2019 Dev Ops
 ``` bash
 bash commands
 ```
+
+## Topics to Cover
+* DevOps
+  * Git
+  * Jenkins
